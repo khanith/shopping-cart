@@ -11,3 +11,4 @@ class RegistrationLoginSpringBootSecurityThymeleafApplicationTests {
 	}
 
 }
+//hi  khanith
